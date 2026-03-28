@@ -18,7 +18,7 @@ You can use Unsplash or other similar free image sources for images.
 
 The website must be responsive:
 - Desktop (1440px or more)
-- Mobile (390px or more) compatible.
+- Mobile (390px or more)
 
 Keep a copy of the original [ORIGINAL HTML] file to prevent it from being overwritten.
 
